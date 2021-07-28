@@ -7,7 +7,7 @@
 Developer for Minecraft, I create servers and also develop plugins.   
 💸 I work to order.   
 📫 For communication, use:**  
-[![VK Badge](https://img.shields.io/static/v1?label&message=Studio&logoColor=white&color=blue&logo=VK)](https://vk.com/angelitex/) [![VK Badge](https://img.shields.io/static/v1?label&message=Profile&logoColor=white&color=blue&logo=VK)](https://vk.com/tiplurka/) [![Discord Badge](https://img.shields.io/static/v1?label&message=Discord&logoColor=white&color=blue&logo=DISCORD)](https://discord.gg/vt42AdR/) [![Telegram Badge](https://img.shields.io/static/v1?label&message=Telegram&logoColor=white&color=blue&logo=TELEGRAM)](https://tlgg.ru/tiplur/)
+[![VK Badge](https://img.shields.io/static/v1?label&message=Studio&logoColor=white&color=blue&logo=VK)](https://vk.com/angelitex/) [![VK Badge](https://img.shields.io/static/v1?label&message=Profile&logoColor=white&color=blue&logo=VK)](https://vk.com/tiplurka/) [![Discord Badge](https://img.shields.io/static/v1?label&message=Discord&logoColor=white&color=blue&logo=DISCORD)](https://discord.gg/vt42AdR) [![Telegram Badge](https://img.shields.io/static/v1?label&message=Telegram&logoColor=white&color=blue&logo=TELEGRAM)](https://tlgg.ru/tiplur/)
 
 ## **Studying**
 
