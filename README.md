@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!--[![Visits Badge](https://badges.pufler.dev/visits/TIplur-ka/TIplur-ka)](https://badges.pufler.dev)
+
+<img src="https://camo.githubusercontent.com/a88d9aad622c383655b34ad67e8b9fda05f3679a10aefbcfb391ff3fcc86f249/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f696e74656c6c696a2d696465612d312e737667" width="64" />
 
 <!--
 **TIplur-ka/TIplur-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
