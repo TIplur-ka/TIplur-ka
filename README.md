@@ -1,8 +1,31 @@
 
-### Hi there 👋
+# Welcome
 [![Visits Badge](https://badges.pufler.dev/visits/TIplur-ka/TIplur-ka)](https://badges.pufler.dev)
 
-<img src="https://camo.githubusercontent.com/a88d9aad622c383655b34ad67e8b9fda05f3679a10aefbcfb391ff3fcc86f249/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f696e74656c6c696a2d696465612d312e737667" width="64" />
+
+**They call me TIplur or TIplurka.    
+Developer for Minecraft, I create servers and also develop plugins.   
+💸 I work to order.   
+📫 For communication, use:**  
+[![VK Badge](https://img.shields.io/static/v1?label&message=Studio&logoColor=white&color=blue&logo=VK)](https://vk.com/angelitex/) [![VK Badge](https://img.shields.io/static/v1?label&message=Profile&logoColor=white&color=blue&logo=VK)](https://vk.com/tiplurka/) [![Discord Badge](https://img.shields.io/static/v1?label&message=Discord&logoColor=white&color=blue&logo=DISCORD)](https://discord.gg/vt42AdR/) [![Telegram Badge](https://img.shields.io/static/v1?label&message=Telegram&logoColor=white&color=blue&logo=TELEGRAM)](https://tlgg.ru/tiplur/)
+
+## **Studying**
+
+<img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/64/000000/pycharm.png"/> <img src="https://img.icons8.com/color/64/000000/nodejs.png"/> <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
+
+## **List of the studied**
+
+<img src="https://img.icons8.com/color/64/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/64/000000/adobe-illustrator--v1.png"/><img src="https://img.icons8.com/color/64/000000/movavi.png"/><img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/64/000000/css3.png"/>
+
+## **List Plugins**
+- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">NineHealth</a></p>   
+- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">FineSystem</a></p> 
+- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">StarPassport</a></p> 
+- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">ReplacementMechanic</a></p>  
+- <p><a href="https://spigotmc.ru/resources/antipillar.660/">AntiPillar</a></p> 
+- <p><a href="">InjectChat</a></p>
+- <p><a href="">LifeMessage</a></p>  
+
 
 <!--
 **TIplur-ka/TIplur-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
