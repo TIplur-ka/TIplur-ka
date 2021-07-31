@@ -21,7 +21,7 @@ Developer for Minecraft, I create servers and also develop plugins.
 - <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">NineHealth</a></p>   
 - <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">FineSystem</a></p> 
 - <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">StarPassport</a></p> 
-- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">ReplacementMechanic</a></p>  
+- <p><a href="https://www.spigotmc.org/resources/replacementmechanic.94769/">ReplacementMechanic</a></p>  
 - <p><a href="https://spigotmc.ru/resources/antipillar.660/">AntiPillar</a></p> 
 - <p><a href="">InjectChat</a></p>
 - <p><a href="">LifeMessage</a></p>  
