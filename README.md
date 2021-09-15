@@ -18,10 +18,10 @@ Developer for Minecraft, I create servers and also develop plugins.
 <img src="https://img.icons8.com/color/64/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/64/000000/adobe-illustrator--v1.png"/><img src="https://img.icons8.com/color/64/000000/movavi.png"/><img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/64/000000/css3.png"/>
 
 ## **List Plugins**
-- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">NineHealth</a></p>   
-- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">FineSystem</a></p> 
-- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">StarPassport</a></p> 
-- <p><a href="https://www.spigotmc.org/resources/replacementmechanic.94769/">ReplacementMechanic</a></p>  
+- <p><a href="https://spigotmc.ru/resources/ninehealth-off-20.515/">NineHealth</a></p>   
+- <p><a href="https://spigotmc.ru/resources/finesystem-off-17.570/">FineSystem</a></p> 
+- <p><a href="https://spigotmc.ru/resources/starpassport.593/">StarPassport</a></p> 
+- <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">ReplacementMechanic</a></p>  
 - <p><a href="https://spigotmc.ru/resources/antipillar.660/">AntiPillar</a></p> 
 - <p><a href="">InjectChat</a></p>
 - <p><a href="">LifeMessage</a></p>  
