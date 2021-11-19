@@ -11,7 +11,7 @@ Developer for Minecraft, I create servers and also develop plugins.
 
 ## **Studying**
 
-<img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/64/000000/pycharm.png"/> <img src="https://img.icons8.com/color/64/000000/nodejs.png"/> <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/64/000000/ruby-programming-language.png"/>
+<img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/64/000000/pycharm.png"/> <img src="https://img.icons8.com/color/64/000000/nodejs.png"/> <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/64/000000/ruby-programming-language.png" /> <img src="https://img.icons8.com/officel/64/000000/php-logo.png"/>
 
 ## **List of the studied**
 
