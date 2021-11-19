@@ -19,7 +19,7 @@ Developer for Minecraft, I create servers and also develop plugins.
 
 ## **Programs used**
 
-<img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/64/000000/pycharm.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/64/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/64/000000/adobe-illustrator--v1.png"/><img src="https://img.icons8.com/color/64/000000/movavi.png"/>
+<img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/64/000000/pycharm.png"/> <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/64/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/64/000000/adobe-illustrator--v1.png"/><img src="https://img.icons8.com/color/64/000000/movavi.png"/>
 
 ## **List Plugins**
 - <p><a href="https://spigotmc.ru/resources/ninehealth-off-20.515/">NineHealth</a></p>   
