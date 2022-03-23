@@ -2,16 +2,16 @@
 
 # Welcome 💚
 [![Visits Badge](https://badges.pufler.dev/visits/TIplur-ka/TIplur-ka)](https://badges.pufler.dev)
+<a href="https://discord.com/users/328969536005210112"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/328969536005210112?bg=23283d&borderRadius=8px&hideBadges=true&hideStatus=true"/></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/328969536005210112)](https://discord.com/users/328969536005210112)
 
+**They call me TIplur or TIplurka.**    
 
-**They call me TIplur or TIplurka.    
-Developer for Minecraft, I create servers and also develop plugins.   
-💸 I work to order.   
-📫 For communication, use:**  
+💸 **I work to order.**   
+📫 **For communication, use:**  
+<br>
 [![VK Badge](https://img.shields.io/static/v1?label&message=Studio&logoColor=white&color=blue&logo=VK)](https://vk.com/angelitex/) [![VK Badge](https://img.shields.io/static/v1?label&message=Profile&logoColor=white&color=blue&logo=VK)](https://vk.com/tiplurka/) [![Discord Badge](https://img.shields.io/static/v1?label&message=Discord&logoColor=white&color=blue&logo=DISCORD)](https://discord.gg/vt42AdR) [![Telegram Badge](https://img.shields.io/static/v1?label&message=Telegram&logoColor=white&color=blue&logo=TELEGRAM)](https://tlgg.ru/tiplur/)
-
+<br><br><br>
 ## **Studying**
 
 <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/64/000000/python--v1.png"/> <img src="https://img.icons8.com/color/64/000000/nodejs.png"/> <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/64/000000/ruby-programming-language.png" /> <img src="https://img.icons8.com/officel/64/000000/php-logo.png"/>
@@ -32,9 +32,8 @@ Developer for Minecraft, I create servers and also develop plugins.
 - <p><a href="https://spigotmc.ru/resources/finesystem-off-17.570/">FineSystem</a></p> 
 - <p><a href="https://spigotmc.ru/resources/starpassport.593/">StarPassport</a></p> 
 - <p><a href="https://spigotmc.ru/resources/replacement-mechanic.581/">ReplacementMechanic</a></p>  
-- <p><a href="https://spigotmc.ru/resources/antipillar.660/">AntiPillar</a></p> 
-- <p><a href="">InjectChat</a></p>
-- <p><a href="">LifeMessage</a></p>  
+- <p><a href="https://github.com/TIplur-ka/InjectChatProfile-Public">InjectChat</a></p>
+- <p><a href="https://spigotmc.ru/resources/premiumproxy-premium-propusk.875/">PremiumProxy</a></p>
 
 
 <!--
