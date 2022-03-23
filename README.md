@@ -1,6 +1,9 @@
+<img src="https://i.imgur.com/Q6ATOiE.png"/>
 
 # Welcome 💚
 [![Visits Badge](https://badges.pufler.dev/visits/TIplur-ka/TIplur-ka)](https://badges.pufler.dev)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/328969536005210112)](https://discord.com/users/328969536005210112)
 
 
 **They call me TIplur or TIplurka.    
