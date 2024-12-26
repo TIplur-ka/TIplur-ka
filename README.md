@@ -4,6 +4,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/TIplur-ka/TIplur-ka)](https://badges.pufler.dev)
 <a href="https://discord.com/users/328969536005210112"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/328969536005210112?bg=23283d&borderRadius=8px&hideBadges=true&hideStatus=true&idleMessage=If I'm offline, it means I'm updating my databases. If I'm online but I'm not doing anything, then I'm just resting!&bg=#0D1117"/></a>
 
+*Заброшен с начала 2023 года.*
 
 **They call me TIplur or TIplurka.**    
 
