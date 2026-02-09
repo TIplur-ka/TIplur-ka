@@ -15,6 +15,11 @@ From early 2023 to the present, I have been successfully collaborating with majo
 ## 🤝 Offers
 **I am currently open to new long-term collaborations and ambitious projects.** > If you have a proposal or a complex technical challenge that requires my expertise, please feel free to reach out via the communication channels listed below.
 
+## Portfolio Works
+A description of the projects that I created or in which I worked can be viewed in a separate Archive Telegram channel.
+
+[![Telegram Badge](https://img.shields.io/static/v1?label&message=Telegram%20Archive%20Works&logoColor=white&color=blue&logo=TELEGRAM)](https://t.me/+ia4ydwMQAwM1YTgy)
+
 ## 📧 Contacts
 [![Telegram Badge](https://img.shields.io/static/v1?label&message=Telegram&logoColor=white&color=blue&logo=TELEGRAM)](https://t.me/tiplur/)
 
