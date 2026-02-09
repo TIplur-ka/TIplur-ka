@@ -1,5 +1,6 @@
-# Welcome ✌
+# Welcome to my profile ✌
 
+## Skills
 - 💻 **Core Tools**: **Java** (Back-end) and **Ruby on Rails** (for the love of fast web dev).
 - 🛠️ **Fullstack Focus**: Building robust backends and clean web interfaces.
 - 🔥 **Interested in**: Scalable Architecture, Ruby Ecosystem, and Backend optimization.
