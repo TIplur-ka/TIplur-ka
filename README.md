@@ -1,4 +1,4 @@
-# Welcome, <username> ✌
+# Welcome ✌
 
 - 💻 **Core Tools**: **Java** (Back-end) and **Ruby on Rails** (for the love of fast web dev).
 - 🛠️ **Fullstack Focus**: Building robust backends and clean web interfaces.
